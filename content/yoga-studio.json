@@ -74,13 +74,13 @@
   "customerReviews": [
     {
       "image": "customer-review-1.jpg",
-      "review": "I love this bakery! The bread is always fresh and the pastries are to die for. Highly recommended!",
-      "author": "John D."
+      "review": "I absolutely love this yoga studio! The instructors are incredibly knowledgeable and supportive, and the classes are challenging and invigorating. I always leave feeling refreshed and energized.",
+      "author": "Emily S."
     },
     {
       "image": "customer-review-2.jpg",
-      "review": "The custom cake I ordered for my daughter's birthday was absolutely amazing. It looked beautiful and tasted even better. Thank you so much!",
-      "author": "Sarah T."
+      "review": "I've been practicing yoga for years and this is by far the best studio I've ever been to. The space is beautiful and peaceful, and the teachers are all amazing. I highly recommend this studio to anyone looking to deepen their practice.",
+      "author": "Michael R."
     }
   ]
 }
