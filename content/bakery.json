@@ -1,0 +1,87 @@
+{
+  "name": "Bakery",
+  "image": "bakery-hero.png",
+  "description": "Welcome to our bakery, where we bake delicious goods with fresh ingredients. From croissants to cakes, we've got something for everyone. Come and experience the art of baking today!",
+  "hero": {
+    "title": "Welcome to Our Bakery",
+    "subtitle": "Freshly baked goods every day",
+    "ctaText": "Order Now",
+    "ctaLink": "/bakery",
+    "bgImage": "bakery-hero.png",
+    "mobileBgImage": "bakery-mobile-hero.png"
+  },
+  "features": {
+    "headline": "Indulge in Our Irresistible Bakery Delights",
+    "list": [
+      {
+        "image": "bakery-section-fresh-baked.png",
+        "imgAlt": "Freshly Baked",
+        "title": "Freshly Baked",
+        "description": "We bake our bread and pastries fresh every morning, using only the best ingredients.",
+        "ctaText": "Learn More",
+        "ctaLink": "/bakery"
+      },
+      {
+        "image": "bakery-section-custom-orders.png",
+        "imgAlt": "Custom Orders",
+        "title": "Custom Orders",
+        "description": "Looking for something specific? We can create custom cakes and pastries to fit any occasion.",
+        "ctaText": "Learn More",
+        "ctaLink": "/bakery"
+      },
+      {
+        "image": "bakery-section-daily-specials.png",
+        "imgAlt": "Daily Specials",
+        "title": "Daily Specials",
+        "description": "Check our daily specials for a chance to try something new and delicious.",
+        "ctaText": "Learn More",
+        "ctaLink": "/bakery"
+      }
+    ]
+  },
+  "products": {
+    "headline": "Discover Our Delicious Selection of Freshly Baked Goods",
+    "list": [
+      {
+        "headline": "Discover Our Delicious Selection of Freshly Baked Goods",
+        "name": "Sourdough Bread",
+        "image": "bakery-sourdough.png",
+        "imgAlt": "Sourdough Bread",
+        "link": "/bakery/sourdough-bread",
+        "linkText": "Shop Now",
+        "description": "Our sourdough bread is made with a natural starter and is the perfect complement to any meal.",
+        "price": 5
+      },
+      {
+        "name": "Croissants",
+        "image": "bakery-croissants.png",
+        "imgAlt": "Croissants",
+        "link": "/bakery/croissants",
+        "linkText": "Shop Now",
+        "description": "Our croissants are flaky and buttery, and are the perfect way to start your day.",
+        "price": 3
+      },
+      {
+        "name": "Custom Cakes",
+        "image": "bakery-cakes.png",
+        "imgAlt": "Custom Cakes",
+        "link": "/bakery/custom-cakes",
+        "linkText": "Shop Now",
+        "description": "Our custom cakes are made to order and are perfect for any occasion. Whether it's a birthday, wedding, or anniversary, we can create the perfect cake for you.",
+        "price": 50
+      }
+    ]
+  },
+  "customerReviews": [
+    {
+      "image": "customer-review-1.jpg",
+      "review": "I love this bakery! The bread is always fresh and the pastries are to die for. Highly recommended!",
+      "author": "John D."
+    },
+    {
+      "image": "customer-review-2.jpg",
+      "review": "The custom cake I ordered for my daughter's birthday was absolutely amazing. It looked beautiful and tasted even better. Thank you so much!",
+      "author": "Sarah T."
+    }
+  ]
+}

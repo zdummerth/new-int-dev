@@ -1,0 +1,86 @@
+{
+  "name": "Yoga Studio",
+  "image": "yoga-studio-hero.png",
+  "description": "Welcome to our yoga studio, where we offer a variety of classes and workshops for all levels. Whether you're a beginner or an experienced yogi, we have something for you. Come and find your zen with us today!",
+  "hero": {
+    "title": "Welcome to Our Yoga Studio",
+    "subtitle": "Find your zen with us",
+    "ctaText": "Join Now",
+    "ctaLink": "/yoga-studio",
+    "bgImage": "yoga-studio-hero.png",
+    "mobileBgImage": "yoga-studio-mobile-hero.png"
+  },
+  "features": {
+    "headline": "Discover the Benefits of Yoga",
+    "list": [
+      {
+        "image": "yoga-section-beginners.png",
+        "imgAlt": "Beginner Classes",
+        "title": "Beginner Classes",
+        "description": "Our beginner classes are perfect for those new to yoga, with gentle movements and clear instructions to help you learn the basics.",
+        "ctaText": "Learn More",
+        "ctaLink": "/yoga-studio/classes"
+      },
+      {
+        "image": "yoga-section-advanced.png",
+        "imgAlt": "Advanced Classes",
+        "title": "Advanced Classes",
+        "description": "For experienced yogis looking for a challenge, our advanced classes offer more complex poses and flows to help you deepen your practice.",
+        "ctaText": "Learn More",
+        "ctaLink": "/yoga-studio/classes"
+      },
+      {
+        "image": "yoga-section-workshops.png",
+        "imgAlt": "Workshops",
+        "title": "Workshops",
+        "description": "Our workshops offer a deeper dive into specific aspects of yoga, such as meditation or alignment, and are perfect for those looking to expand their knowledge and practice.",
+        "ctaText": "Learn More",
+        "ctaLink": "/yoga-studio/workshops"
+      }
+    ]
+  },
+  "products": {
+    "headline": "Find Your Perfect Yoga Gear",
+    "list": [
+      {
+        "name": "Yoga Mats",
+        "image": "yoga-studio-mats.png",
+        "imgAlt": "Yoga Mats",
+        "link": "/yoga-studio/mats",
+        "linkText": "Shop Now",
+        "description": "Our yoga mats come in a variety of colors and materials to fit your needs and preferences, whether you prefer extra cushioning or a lightweight design.",
+        "price": 50
+      },
+      {
+        "name": "Yoga Blocks",
+        "image": "yoga-studio-blocks.png",
+        "imgAlt": "Yoga Blocks",
+        "link": "/yoga-studio/blocks",
+        "linkText": "Shop Now",
+        "description": "Our yoga blocks are the perfect tool to help you deepen your practice, providing support and stability for challenging poses.",
+        "price": 20
+      },
+      {
+        "name": "Yoga Straps",
+        "image": "yoga-studio-straps.png",
+        "imgAlt": "Yoga Straps",
+        "link": "/yoga-studio/straps",
+        "linkText": "Shop Now",
+        "description": "Our yoga straps help you achieve deeper stretches and improve your flexibility, whether you're a beginner or an experienced yogi.",
+        "price": 15
+      }
+    ]
+  },
+  "customerReviews": [
+    {
+      "image": "customer-review-1.jpg",
+      "review": "I love this bakery! The bread is always fresh and the pastries are to die for. Highly recommended!",
+      "author": "John D."
+    },
+    {
+      "image": "customer-review-2.jpg",
+      "review": "The custom cake I ordered for my daughter's birthday was absolutely amazing. It looked beautiful and tasted even better. Thank you so much!",
+      "author": "Sarah T."
+    }
+  ]
+}
